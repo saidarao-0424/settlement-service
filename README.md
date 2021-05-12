@@ -18,5 +18,5 @@
 ### Test the API
 - Unit tests added to test controller and service classes
 - Integration tests to load Standard Settlement Instructions and save into H2 DB.
-- Since classpath has swagger GUI, we can test all the exposed endpoints using "http://localhost:9090/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config#/Settlement%20Enrichment%20API"
+- Since classpath has swagger GUI, we can test all the exposed endpoints using "http://localhost:9090/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config#/Settlement%20Message%20API"
 
